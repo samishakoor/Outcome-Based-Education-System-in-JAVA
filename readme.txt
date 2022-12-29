@@ -1,5 +1,5 @@
 'Outcome based education system' is such a a system in which teachers and admin can control 
-the whole courese management for students.
+the whole course management for students.
 
 How To Run:
 
