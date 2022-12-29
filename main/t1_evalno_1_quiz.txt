@@ -1,0 +1,19 @@
+1
+10
+what is pendulum?
+12
+
+2
+10
+what is communication?
+12
+
+3
+10
+what is constitution?
+12
+
+4
+10
+what is linear algebra?
+12

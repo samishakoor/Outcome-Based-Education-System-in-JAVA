@@ -1,0 +1,20 @@
+41
+5
+define polymorphism
+32
+
+72
+10
+define inheritance
+33
+
+73
+15
+define multitasking
+32
+
+79
+20
+differentiate between multitasking and parallelism.
+40
+

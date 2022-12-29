@@ -1,0 +1,30 @@
+12
+1001
+Programming Fundamentals
+4
+Core
+13
+1990
+Pakistan Studies
+3
+Elective
+14
+3211
+Calculus
+3
+Core
+15
+3321
+English Composition
+3
+Elective
+16
+3345
+Object Oriented Programming
+4
+Core
+17
+1818
+Discrete Structures
+3
+Core
